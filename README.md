@@ -1,6 +1,8 @@
 # Paveralicious Additions - Resourcepack
 The Minecraft Resourcepack for the "Paveralicious Additions" - Datapack
 
+Datapack: [https://github.com/Powerspieler/Paveralicious-Additions](https://github.com/Powerspieler/Paveralicious-Additions)
+
 ## Disclaimer
 Model and Texture of "paveral.lightning_rod" are NOT created by Powerspieler!
 [https://www.planetminecraft.com/texture-pack/heroes-of-the-storm-custom-weapons-sylvanas-windrunner-tyrande-whisperwind-and-jaina-proudmoore/](https://www.planetminecraft.com/texture-pack/heroes-of-the-storm-custom-weapons-sylvanas-windrunner-tyrande-whisperwind-and-jaina-proudmoore/)
