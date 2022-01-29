@@ -1,0 +1,6 @@
+{
+	"parent": "item/paveral.golden_crook_base",
+	"textures": {
+		"core": "paveral/jeb_wool"
+	}	
+}
