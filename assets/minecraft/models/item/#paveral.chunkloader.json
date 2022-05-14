@@ -1,0 +1,19 @@
+{
+	"parent": "minecraft:block/cube_directional",
+	"textures": {
+	  "particle": "minecraft:block/jigsaw_top",
+	  "north": "minecraft:block/jigsaw_side",
+	  "south": "minecraft:block/jigsaw_side",
+	  "east": "paveral/chunkloader_side",
+	  "west": "paveral/chunkloader_side",
+	  "up": "minecraft:block/structure_block_data",
+	  "down": "minecraft:block/jigsaw_top"
+	},
+	"display": {
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16],
+			"scale": [2.01, 2.01, 2.01]
+		}
+	}
+}
