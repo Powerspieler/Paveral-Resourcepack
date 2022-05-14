@@ -5,6 +5,6 @@
   },
     "overrides": [
         {"predicate": {"custom_model_data": 1},"model": "item/paveral.jeb_wool"},
-	{"predicate": {"custom_model_data": 2},"model": "item/paveral.chunkloader"}
+      	{"predicate": {"custom_model_data": 2},"model": "item/paveral.chunkloader"}
     ]
 }

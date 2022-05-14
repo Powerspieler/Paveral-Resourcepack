@@ -13,5 +13,5 @@ Model and Texture of "paveral.sheepfreeze", "paveral.lightstaff" and "paveral.be
 Model and Texture of "paveral.wrench" are NOT created by Powerspieler!
 [https://www.curseforge.com/minecraft/mc-mods/wrench](https://www.curseforge.com/minecraft/mc-mods/wrench)
 
-Model and Texture of "paveral.chunkloader" are created by /u/fuami-cake (Reddit) and taken from:
+Model and Texture of "paveral.chunkloader" are modified versions created by /u/fuami-cake (Reddit) and taken from:
 [https://www.curseforge.com/minecraft/mc-mods/persistent-bits](https://www.curseforge.com/minecraft/mc-mods/persistent-bits)
