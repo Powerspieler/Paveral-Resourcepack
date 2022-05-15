@@ -1,5 +1,9 @@
 {
 
-"Server Resourcepack has been updated to a newer Version (1.3)!\nDownload it by changing the setting \"Server Resource Packs\" of the server in your serverlist to \"Prompt\"": "%s"
+"Server Resourcepack has been updated to a newer Version (1.4)!\nDownload it by changing the setting \"Server Resource Packs\" of the server in your serverlist to \"Prompt\"": "%s",
+
+"paveral.forge": "\u00a7f\uEE01\u00a7r                The Forge                \u00a7f\uEE02",
+
+"container.isLocked": ""
 
 }
