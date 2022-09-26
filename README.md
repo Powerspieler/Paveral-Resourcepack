@@ -1,7 +1,10 @@
-# Paveralicious Additions - Resourcepack
-The Minecraft Resourcepack for the "Paveralicious Additions" - Datapack
+# Paveral - Resourcepack
+The Minecraft Resourcepack for the "Paveral" - Java-Plugin
 
-Datapack: [https://github.com/Powerspieler/Paveralicious-Additions](https://github.com/Powerspieler/Paveralicious-Additions)
+Datapack: [https://github.com/Powerspieler/Paveral](https://github.com/Powerspieler/Paveral)
+
+## Paveralicious - Additions
+If you need the Resourcepack for the Datapack-Version check out the release for the Datapack
 
 ## Disclaimer
 Model and Texture of "paveral.lightning_rod" are NOT created by Powerspieler!
