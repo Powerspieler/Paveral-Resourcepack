@@ -2,7 +2,7 @@
 	"providers": [
 		{
 			"type": "bitmap",
-			"file": "minecraft:paveral/container/forge_recipes_left.png",
+			"file": "minecraft:paveral/recipes/wrench.png",
 			"ascent": 13,
 			"height": 166,
 			"chars": [
@@ -11,12 +11,22 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:paveral/container/forge_recipes_right.png",
+      "file": "minecraft:paveral/recipes/anti_creeper_grief.png",
       "ascent": 13,
       "height": 166,
       "chars": [
         "\uEE02"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/chunkloader.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE03"
+      ]
     }
+
 	]
 }
