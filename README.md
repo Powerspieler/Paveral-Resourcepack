@@ -1,7 +1,7 @@
 # Paveral - Resourcepack
 The Minecraft Resourcepack for the "Paveral" - Java-Plugin
 
-Datapack: [https://github.com/Powerspieler/Paveral](https://github.com/Powerspieler/Paveral)
+Java Plugin: [https://github.com/Powerspieler/Paveral](https://github.com/Powerspieler/Paveral)
 
 ## Paveralicious - Additions
 If you need the Resourcepack for the Datapack-Version check out the release for the Datapack
