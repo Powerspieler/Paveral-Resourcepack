@@ -5,7 +5,7 @@
   },
     "overrides": [
         {"predicate": {"custom_model_data": 1},"model": "item/paveral.lightning_rod"},
-        {"predicate": {"custom_model_data": 2},"model": "item/paveral.sheepfreeze"},
+
 	{"predicate": {"custom_model_data": 3},"model": "item/paveral.wrench"},
 	{"predicate": {"custom_model_data": 4},"model": "item/paveral.lightstaff"},
 	{"predicate": {"custom_model_data": 4 ,"damage": 1},"model": "item/paveral.lightstaff_broken"},

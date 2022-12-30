@@ -1,13 +1,13 @@
 {
-	"providers": [
-		{
-			"type": "bitmap",
-			"file": "minecraft:paveral/recipes/wrench.png",
-			"ascent": 13,
-			"height": 166,
-			"chars": [
-				"\uEE01"
-			]
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/wrench.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE01"
+      ]
     },
     {
       "type": "bitmap",
@@ -27,6 +27,5 @@
         "\uEE03"
       ]
     }
-
-	]
+  ]
 }
