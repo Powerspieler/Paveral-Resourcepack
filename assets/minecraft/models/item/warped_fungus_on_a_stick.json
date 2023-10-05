@@ -13,6 +13,7 @@
 	{"predicate": {"custom_model_data": 5 ,"damage": 0.25},"model": "item/paveral.bedrock_breaker/2"},
 	{"predicate": {"custom_model_data": 5 ,"damage": 0.5},"model": "item/paveral.bedrock_breaker/3"},
 	{"predicate": {"custom_model_data": 5 ,"damage": 0.75},"model": "item/paveral.bedrock_breaker/4"},
-	{"predicate": {"custom_model_data": 5 ,"damage": 1},"model": "item/paveral.bedrock_breaker/5"}
+	{"predicate": {"custom_model_data": 5 ,"damage": 1},"model": "item/paveral.bedrock_breaker/5"},
+	{"predicate": {"custom_model_data": 6},"model": "item/paveral.worldalterer"}
     ]
 }
