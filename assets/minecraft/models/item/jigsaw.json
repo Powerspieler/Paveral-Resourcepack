@@ -11,8 +11,9 @@
   },
     "overrides": [
         {"predicate": {"custom_model_data": 1},"model": "item/paveral.anti_creeper_grief"},
-	{"predicate": {"custom_model_data": 2},"model": "item/paveral.missingno"},
+	{"predicate": {"custom_model_data": 2},"model": "item/parts/paveral.sonic_essence"},
 	{"predicate": {"custom_model_data": 3},"model": "item/parts/paveral.amethyst_laser"},
+	{"predicate": {"custom_model_data": 4},"model": "item/parts/paveral.sculk_circuit"},
 	{"predicate": {"custom_model_data": 5},"model": "item/parts/paveral.alteration_core"},
 	{"predicate": {"custom_model_data": 6},"model": "item/parts/paveral.echo_container"},
 	{"predicate": {"custom_model_data": 99},"model": "item/paveral.missingno"}

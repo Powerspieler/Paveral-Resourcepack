@@ -13,6 +13,7 @@
 		"11": "block/blast_furnace_top",
 		"12": "block/cracked_nether_bricks",
 		"13": "block/glass",
+		"14": "paveral/worldalterer/echo_fluid",
 		"particle": "block/amethyst_block"
 	},
 	"elements": [
@@ -1018,7 +1019,7 @@
 		},
 		{
 			"from": [3.65, 2, 4.94],
-			"to": [8.75, 3.9, 5.74],
+			"to": [8.75, 3.9, 4.94],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#13"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#13"},
@@ -1026,20 +1027,6 @@
 				"west": {"uv": [0, 0, 16, 16], "texture": "#13"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#13"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#13"}
-			}
-		},
-		{
-			"name": "Fluid",
-			"from": [3.65, 2, 4.95],
-			"to": [8.75, 3.9, 5.05],
-			"color": 6,
-			"faces": {
-				"north": {"uv": [0, 0, 5.1, 1.9], "texture": "#missing"},
-				"east": {"uv": [0, 0, 0.1, 1.9], "texture": "#missing"},
-				"south": {"uv": [0, 0, 5.1, 1.9], "texture": "#missing"},
-				"west": {"uv": [0, 0, 0.1, 1.9], "texture": "#missing"},
-				"up": {"uv": [0, 0, 5.1, 0.1], "texture": "#missing"},
-				"down": {"uv": [0, 0, 5.1, 0.1], "texture": "#missing"}
 			}
 		},
 		{
@@ -1088,6 +1075,58 @@
 				"west": {"uv": [0, 0, 6, 5], "texture": "#12"},
 				"up": {"uv": [0, 0, 6, 5], "texture": "#12"},
 				"down": {"uv": [0, 0, 6, 5], "texture": "#12"}
+			}
+		},
+		{
+			"name": "Fluid25",
+			"from": [3.65, 1.9, 4.95],
+			"to": [8.75, 2.4, 5.75],
+			"faces": {
+				"north": {"uv": [0, 12, 16, 16], "texture": "#14"},
+				"east": {"uv": [0, 0, 0.1, 1.9], "texture": "#missing"},
+				"south": {"uv": [0, 0, 5.1, 1.9], "texture": "#missing"},
+				"west": {"uv": [0, 0, 0.1, 1.9], "texture": "#missing"},
+				"up": {"uv": [0, 16, 16, 12], "texture": "#14"},
+				"down": {"uv": [0, 0, 5.1, 0.1], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "Fluid50",
+			"from": [3.65, 2.4, 4.95],
+			"to": [8.75, 2.9, 5.75],
+			"faces": {
+				"north": {"uv": [0, 8, 16, 12], "texture": "#14"},
+				"east": {"uv": [0, 0, 0.1, 1.9], "texture": "#missing"},
+				"south": {"uv": [0, 0, 5.1, 1.9], "texture": "#missing"},
+				"west": {"uv": [0, 0, 0.1, 1.9], "texture": "#missing"},
+				"up": {"uv": [0, 12, 16, 8], "texture": "#14"},
+				"down": {"uv": [0, 0, 5.1, 0.1], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "Fluid75",
+			"from": [3.65, 2.9, 4.95],
+			"to": [8.75, 3.4, 5.75],
+			"faces": {
+				"north": {"uv": [0, 4, 16, 8], "texture": "#14"},
+				"east": {"uv": [0, 0, 0.1, 1.9], "texture": "#missing"},
+				"south": {"uv": [0, 0, 5.1, 1.9], "texture": "#missing"},
+				"west": {"uv": [0, 0, 0.1, 1.9], "texture": "#missing"},
+				"up": {"uv": [0, 8, 16, 4], "texture": "#14"},
+				"down": {"uv": [0, 0, 5.1, 0.1], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "Fluid100",
+			"from": [3.65, 3.4, 4.95],
+			"to": [8.75, 3.9, 5.75],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 4], "texture": "#14"},
+				"east": {"uv": [0, 0, 0.1, 1.9], "texture": "#missing"},
+				"south": {"uv": [0, 0, 5.1, 1.9], "texture": "#missing"},
+				"west": {"uv": [0, 0, 0.1, 1.9], "texture": "#missing"},
+				"up": {"uv": [0, 0, 5.1, 0.1], "texture": "#missing"},
+				"down": {"uv": [0, 0, 5.1, 0.1], "texture": "#missing"}
 			}
 		},
 		{
@@ -2719,12 +2758,12 @@
 			"scale": [1.1, 1.1, 1.1]
 		},
 		"firstperson_righthand": {
-			"rotation": [-70.93, 78.59, 93.03],
-			"translation": [-2.5, 8.5, 1.25]
+			"rotation": [-72.68, 81, 93.03],
+			"translation": [-1.5, 7.5, 1.25]
 		},
 		"firstperson_lefthand": {
-			"rotation": [108, 24, 100],
-			"translation": [-4.75, 2.5, 0]
+			"rotation": [107.73, 22.12, 100.65],
+			"translation": [-3.5, 1.5, 0]
 		},
 		"ground": {
 			"translation": [0, 3.75, 0]
@@ -2778,7 +2817,19 @@
 					"name": "Fuel-Container",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [77, 78, 79, 80, 81, 82]
+					"children": [
+						77,
+						78,
+						79,
+						80,
+						81,
+						{
+							"name": "Fluid",
+							"origin": [8, 8, 8],
+							"color": 0,
+							"children": [82, 83, 84, 85]
+						}
+					]
 				}
 			]
 		},
@@ -2786,16 +2837,13 @@
 			"name": "Pipe Holders",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110]
+			"children": [86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113]
 		},
 		{
 			"name": "Pipes",
 			"origin": [8, 8, 8],
 			"color": 0,
 			"children": [
-				111,
-				112,
-				113,
 				114,
 				115,
 				116,
@@ -2839,7 +2887,10 @@
 				154,
 				155,
 				156,
-				157
+				157,
+				158,
+				159,
+				160
 			]
 		},
 		{
@@ -2851,25 +2902,25 @@
 					"name": "Arm-right",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168]
+					"children": [161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171]
 				},
 				{
 					"name": "Arm-left",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179]
+					"children": [172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182]
 				},
 				{
 					"name": "Arm-up",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190]
+					"children": [183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193]
 				},
 				{
 					"name": "Arm-down",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201]
+					"children": [194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204]
 				}
 			]
 		},
@@ -2877,7 +2928,7 @@
 			"name": "large_Crystal",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [202, 203, 204, 205, 206]
+			"children": [205, 206, 207, 208, 209]
 		}
 	]
 }

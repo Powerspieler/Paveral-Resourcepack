@@ -6,6 +6,10 @@ Java Plugin: [https://github.com/Powerspieler/Paveral](https://github.com/Powers
 ## Paveralicious - Additions
 If you need the Resourcepack for the Datapack-Version check out the release for the Datapack
 
+## Special Thanks!
+To Raphilius for creating the Worldalterer Model!
+
+
 ## Disclaimer
 Model and Texture of "paveral.lightning_rod" are NOT created by Powerspieler!
 [https://www.planetminecraft.com/texture-pack/heroes-of-the-storm-custom-weapons-sylvanas-windrunner-tyrande-whisperwind-and-jaina-proudmoore/](https://www.planetminecraft.com/texture-pack/heroes-of-the-storm-custom-weapons-sylvanas-windrunner-tyrande-whisperwind-and-jaina-proudmoore/)
