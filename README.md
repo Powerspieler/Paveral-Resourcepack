@@ -7,7 +7,7 @@ Java Plugin: [https://github.com/Powerspieler/Paveral](https://github.com/Powers
 If you need the Resourcepack for the Datapack-Version check out the release for the Datapack
 
 ## Special Thanks!
-To Raphilius for creating the Worldalterer Model!
+To Raphilius for creating the model for the Worldalterer and all musicpack items.
 
 
 ## Disclaimer
