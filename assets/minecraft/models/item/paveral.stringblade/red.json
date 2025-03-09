@@ -1,7 +1,0 @@
-{
-	"parent": "item/paveral.stringblade/basemodel",
-	"textures": {
-		"0": "paveral/stringblade/red",
-		"particle": "paveral/stringblade/red"
-	}	
-}

@@ -1,0 +1,7 @@
+{
+	"parent": "paveral:item/stringblade/basemodel",
+	"textures": {
+		"0": "paveral/stringblade/blue",
+		"particle": "paveral/stringblade/blue"
+	}	
+}

@@ -1,0 +1,131 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "lightning_rod",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/lightning_rod"
+        }
+      },
+      {
+        "when": "wrench",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/wrench"
+        }
+      },
+      {
+        "when": "lightstaff",
+        "model": {
+          "type": "minecraft:range_dispatch",
+          "property": "minecraft:damage",
+          "normalize": true,
+          "entries": [
+            {
+              "threshold": 1,
+              "model": {
+                "type": "minecraft:model",
+                "model": "paveral:item/lightstaff_broken"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "paveral:item/lightstaff"
+          }
+        }
+      },
+      {
+        "when": "bedrock_breaker",
+        "model": {
+          "type": "minecraft:range_dispatch",
+          "property": "minecraft:damage",
+          "normalize": true,
+          "entries": [
+            {
+              "threshold": 0.25,
+              "model": {
+                "type": "minecraft:model",
+                "model": "paveral:item/bedrock_breaker/2"
+              }
+            },
+            {
+              "threshold": 0.5,
+              "model": {
+                "type": "minecraft:model",
+                "model": "paveral:item/bedrock_breaker/3"
+              }
+            },
+            {
+              "threshold": 0.75,
+              "model": {
+                "type": "minecraft:model",
+                "model": "paveral:item/bedrock_breaker/4"
+              }
+            },
+            {
+              "threshold": 1,
+              "model": {
+                "type": "minecraft:model",
+                "model": "paveral:item/bedrock_breaker/5"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "paveral:item/bedrock_breaker/1"
+          }
+        }
+      },
+      {
+        "when": "worldalterer",
+        "model": {
+          "type": "minecraft:range_dispatch",
+          "property": "minecraft:damage",
+          "normalize": true,
+          "entries": [
+            {
+              "threshold": 0.25,
+              "model": {
+                "type": "minecraft:model",
+                "model": "paveral:item/worldalterer/25"
+              }
+            },
+            {
+              "threshold": 0.5,
+              "model": {
+                "type": "minecraft:model",
+                "model": "paveral:item/worldalterer/50"
+              }
+            },
+            {
+              "threshold": 0.75,
+              "model": {
+                "type": "minecraft:model",
+                "model": "paveral:item/worldalterer/75"
+              }
+            },
+            {
+              "threshold": 1,
+              "model": {
+                "type": "minecraft:model",
+                "model": "paveral:item/worldalterer/100"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "paveral:item/worldalterer/worldalterer"
+          }
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/warped_fungus_on_a_stick"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "anti_creeper_grief",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/anti_creeper_grief"
+        }
+      },
+      {
+        "when": "sonic_essence",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/sonic_essence"
+        }
+      },
+      {
+        "when": "amethyst_laser",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/amethyst_laser"
+        }
+      },
+      {
+        "when": "sculk_circuit",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/sculk_circuit"
+        }
+      },
+      {
+        "when": "alteration_core",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/alteration_core"
+        }
+      },
+      {
+        "when": "echo_container",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/echo_container"
+        }
+      },
+      {
+        "when": "music_core",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/music_core"
+        }
+      },
+      {
+        "when": "missingno",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/missingno"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/jigsaw"
+    }
+  }
+}

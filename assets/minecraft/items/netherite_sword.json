@@ -1,0 +1,131 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "rhythms_awakening",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/rhythms_awakening"
+        }
+      },
+      {
+        "when": "stringblade/black",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/stringblade/black"
+        }
+      },
+      {
+        "when": "stringblade/blue",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/stringblade/blue"
+        }
+      },
+      {
+        "when": "stringblade/brown",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/stringblade/brown"
+        }
+      },
+      {
+        "when": "stringblade/cyan",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/stringblade/cyan"
+        }
+      },
+      {
+        "when": "stringblade/gray",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/stringblade/gray"
+        }
+      },
+      {
+        "when": "stringblade/green",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/stringblade/green"
+        }
+      },
+      {
+        "when": "stringblade/light_blue",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/stringblade/light_blue"
+        }
+      },
+      {
+        "when": "stringblade/light_gray",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/stringblade/light_gray"
+        }
+      },
+      {
+        "when": "stringblade/lime",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/stringblade/lime"
+        }
+      },
+      {
+        "when": "stringblade/magenta",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/stringblade/magenta"
+        }
+      },
+      {
+        "when": "stringblade/orange",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/stringblade/orange"
+        }
+      },
+      {
+        "when": "stringblade/pink",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/stringblade/pink"
+        }
+      },
+      {
+        "when": "stringblade/purple",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/stringblade/purple"
+        }
+      },
+      {
+        "when": "stringblade/red",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/stringblade/red"
+        }
+      },
+      {
+        "when": "stringblade/white",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/stringblade/white"
+        }
+      },
+      {
+        "when": "stringblade/yellow",
+        "model": {
+          "type": "minecraft:model",
+          "model": "paveral:item/stringblade/yellow"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_sword"
+    }
+  }
+}

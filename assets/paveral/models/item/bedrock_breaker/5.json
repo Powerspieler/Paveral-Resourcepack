@@ -1,0 +1,6 @@
+{
+	"parent": "paveral:item/bedrock_breaker/base",
+	"textures": {
+		"bedrock_breaker": "paveral/bedrock_breaker_5"
+	}	
+}

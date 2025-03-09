@@ -1,6 +1,0 @@
-{
-	"parent": "item/paveral.worldalterer/worldalterer",
-	"textures": {
-		"14": "paveral/worldalterer/100"
-	}	
-}
