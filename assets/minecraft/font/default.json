@@ -26,6 +26,186 @@
       "chars": [
         "\uEE03"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/dis_book.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE04"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/enhanced.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE05"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/bonk.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE06"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/lightning_rod.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE07"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/lightstaff.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE08"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/bedrock_breaker.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE09"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/piano_sword.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE10"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/stringblade.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE11"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/music_pickaxe.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE12"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/music_axe.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE13"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/music_shovel.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE14"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/music_hoe.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE15"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/altar_book.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE16"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/music_core.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE17"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/worldalterer_refill.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE18"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/alteration_core.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE19"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/sculk_circuit.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE20"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/amethyst_laser.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE21"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/echo_container.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE22"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:paveral/recipes/worldalterer.png",
+      "ascent": 13,
+      "height": 166,
+      "chars": [
+        "\uEE23"
+      ]
     }
   ]
 }
